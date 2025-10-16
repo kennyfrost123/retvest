@@ -1,0 +1,20 @@
+
+--------------------------------------------------
+
+------------------------------------------------*
+Drop any 1920×1080 image named exactly `hero.png` into `/public`.
+
+--------------------------------------------------
+retvest-animated/public/lottie/portfolio.json
+retvest-animated/public/lottie/income.json
+retvest-animated/public/lottie/local.json
+------------------------------------------------*
+Download three free 20-KB Lottie files from [https://lottiefiles.com](https://lottiefiles.com) (search “portfolio”, “money”, “local”) and save them exactly as:
+
+* `/public/lottie/portfolio.json`  
+* `/public/lottie/income.json`  
+* `/public/lottie/local.json`
+
+--------------------------------------------------
+THAT’S EVERY FILE  
+Create the folder tree exactly as listed, paste the code, push to GitHub, import into Vercel, add your domain—live professional animated site in minutes.
